@@ -1,2 +1,0 @@
-# PrimeStoreID
-Website Joki PrimeStoreID
